@@ -35,7 +35,7 @@ rrtools::use_compendium("SoilID")
 usethis::use_mit_license(name = "Jonathan J Maynard")
 usethis::use_git()
 #Create github ‘repo’ token for “myproject”
-usethis::use_github(auth_token = "444c113daec7d9bc845e6959845c6a4c7a1dc30d", protocol = "https", private = FALSE)
+usethis::use_github(auth_token = "dccf69d25fadc0f2c2fb409c941870df92b18789", protocol = "https", private = FALSE)
 rrtools::use_readme_rmd()
 rrtools::use_analysis()
 #rename the ‘analysis’ folder to ‘manuscript’
